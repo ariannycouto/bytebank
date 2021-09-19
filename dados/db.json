@@ -1,0 +1,82 @@
+{
+  "transferencias": [
+    {
+      "id": "1",
+      "valor": 35,
+      "destino": "1212-1",
+      "data": "2020-11-04T16:30:10.710Z"
+    },
+    {
+      "id": "2",
+      "valor": 40,
+      "destino": "1213-1",
+      "data": "2020-11-04T21:24:10.710Z"
+    },
+    {
+      "id": "3",
+      "valor": 12.5,
+      "destino": "1214-1",
+      "data": "2020-11-05T21:14:10.710Z"
+    },
+    {
+      "valor": 46,
+      "destino": null,
+      "data": "2021-09-19T22:14:17.655Z",
+      "id": "Djsrwq5"
+    },
+    {
+      "valor": 300,
+      "destino": null,
+      "data": "2021-09-19T22:23:59.266Z",
+      "id": "RJSPeiT"
+    },
+    {
+      "valor": 200,
+      "destino": 36,
+      "data": "2021-09-19T22:24:08.068Z",
+      "id": "nAcfnB4"
+    },
+    {
+      "valor": 40,
+      "destino": 36925,
+      "data": "2021-09-19T22:24:42.212Z",
+      "id": "HoLw_mk"
+    },
+    {
+      "valor": 42,
+      "destino": null,
+      "data": "2021-09-19T22:25:50.704Z",
+      "id": "4U7mOHb"
+    },
+    {
+      "valor": 69,
+      "destino": null,
+      "data": "2021-09-19T22:31:19.401Z",
+      "id": "cL745Bf"
+    },
+    {
+      "valor": 65,
+      "destino": null,
+      "data": "2021-09-19T22:32:26.610Z",
+      "id": "7NlhACZ"
+    },
+    {
+      "valor": 98,
+      "destino": null,
+      "data": "2021-09-19T22:33:11.241Z",
+      "id": "eOdjHb7"
+    },
+    {
+      "valor": 25,
+      "destino": null,
+      "data": "2021-09-19T22:35:49.945Z",
+      "id": "d6_xy0G"
+    },
+    {
+      "valor": 65,
+      "destino": 676877,
+      "data": "2021-09-19T22:36:11.338Z",
+      "id": "Sb6Waq7"
+    }
+  ]
+}
